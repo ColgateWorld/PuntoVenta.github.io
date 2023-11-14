@@ -1,0 +1,125 @@
+[
+    {
+        "id": "Donas De Azucar",
+        "titulo": "Donas De Azucar",
+        "imagen": "./Img/DONAS/donas_azucar.jpg",
+        "categoria": {
+            "nombre": "DONAS",
+            "id": "DONAS"
+        },
+        "precio": 7
+    },
+    {
+        "id": "Donas De Chocolate",
+        "titulo": "Donas De Chocolate",
+        "imagen": "./Img/DONAS/donas_chocolates.jpg",
+        "categoria": {
+            "nombre": "DONAS",
+            "id": "DONAS"
+        },
+        "precio": 10
+    },
+    {
+        "id": "Donas Con Coco Rayado",
+        "titulo": "Donas Con Coco Rayado",
+        "imagen": "./Img/DONAS/donas_coco_rayado.jpg",
+        "categoria": {
+            "nombre": "DONAS",
+            "id": "DONAS"
+        },
+        "precio": 14
+    },
+
+
+
+    {
+        "id": "CHURROS RELLENOS",
+        "titulo": "Churros Rellenos Azucar",
+        "imagen": "./Img/CHURROS/churro_relleno.jpg",
+        "categoria": {
+            "nombre": "CHURROS",
+            "id": "CHURROS"
+        },
+        "precio": 14
+    },
+    {
+        "id": "CHURROS AZUCAR",
+        "titulo": "Churros De Azucar",
+        "imagen": "./Img/CHURROS/churros_azucarados.jpg",
+        "categoria": {
+            "nombre": "CHURROS",
+            "id": "CHURROS"
+        },
+        "precio": 6
+    },
+
+    {
+        "id": "CHURROS CHOCOLATE",
+        "titulo": "Churros De Chocolate",
+        "imagen": "./Img/CHURROS/Churro_chocolate.jpg",
+        "categoria": {
+            "nombre": "CHURROS",
+            "id": "CHURROS"
+        },
+        "precio": 12
+    },
+    
+    {
+        "id": "CHURROS RELLENOS DE CHOCOLATE",
+        "titulo": "Churros Relleno De Chocolate",
+        "imagen": "./Img/CHURROS/churro_relleno_chocolate.jpg",
+        "categoria": {
+            "nombre": "CHURROS",
+            "id": "CHURROS"
+        },
+        "precio": 18
+    },
+
+
+
+    {
+        "id": "EMPANADAS",
+        "titulo": "Empanada Azucar De Crema",
+        "imagen": "./Img/EMPANADAS/empanadas_nata.jpg",
+        "categoria": {
+            "nombre": "EMPANADAS",
+            "id": "EMPANADAS"
+        },
+        "precio": 8
+    },
+
+    {
+        "id": "EMPANADAS DE CHOCOLATE",
+        "titulo": "Empanada Chocolate De Crema",
+        "imagen": "./Img/EMPANADAS/empanadas_chocolate.jpg",
+        "categoria": {
+            "nombre": "EMPANADAS",
+            "id": "EMPANADAS"
+        },
+        "precio": 12
+    },
+
+
+
+    {
+        "id": "BOLAS DE AZUCAR",
+        "titulo": "Bolas De Azucar",
+        "imagen": "./Img/bolas/bolitas_azucar.jpeg",
+        "categoria": {
+            "nombre": "BOLAS DE AZUCAR",
+            "id": "BOLAS"
+        },
+        "precio": 10
+    },
+
+    {
+        "id": "CAFÉ",
+        "titulo": "Café",
+        "imagen": "./Img/CAFE/images.jpg",
+        "categoria": {
+            "nombre": "CAFÉ",
+            "id": "CAFÉ"
+        },
+        "precio": 15
+    }
+]
